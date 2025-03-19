@@ -5,6 +5,8 @@ import random
 import time
 import re
 
+st.set_page_config(page_title="Password Generate & Check",layout="centered")
+
 # Function to generate a random password based on user preferences
 # Parameters:
 #   length: Integer - desired length of password
