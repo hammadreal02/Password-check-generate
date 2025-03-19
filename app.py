@@ -111,7 +111,7 @@ if st.button("check strength"):
     
  if password:
     strength , suggestion = check_pass_str(password)
-    st.markdown(f"##### Your password : {strength}")
+    st.markdown(f"##### Your password : {password}")
 
     if suggestion:
          st.markdown("#### Suggestions to Improve:")
