@@ -28,6 +28,9 @@ A Python-based web application built with Streamlit that helps users generate se
   - Medium
   - Weak
 
+## visit to live preview
+  https://password-check-generate-01.streamlit.app/
+
 ## How to Use
 
 1. **Password Generation:**
